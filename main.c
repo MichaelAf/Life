@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
 #include <Windowsx.h>
-#include <time.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <limits.h>
 #include "font.h"
 
 #define WINSIZE 900
